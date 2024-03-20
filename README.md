@@ -2,7 +2,8 @@
 <h3 align="center">A passionate full-stack developer from France</h3>
 
 - 🌱 I’m currently learning **React.js, Express**
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/lgadrien).
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/yourusername).
+- 📚 I'm currently studying at **Epitech Digital School Paris**.
 - 📫 How to reach me: **adrien.leguen.p@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
