@@ -6,7 +6,6 @@
 
 - 📫 How to reach me **adrien.leguen.p@gmail.com**
 
-- 📄 Know about my experiences [Working on it too](Working on it too)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
