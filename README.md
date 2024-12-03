@@ -1,54 +1,87 @@
-<h1 align="center">Hi 👋, I'm Adrien</h1>
-<h3 align="center">A passionate full-stack developer from France</h3>
+<h1 align="center">Bonjour 👋, je suis Adrien</h1>
+<h3 align="center">Développeur full-stack passionné par la technologie, le code et l'entrepreneuriat.</h3>
 
-- 🌱 I’m currently learning **React.js, Express**
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/yourusername).
-- 📚 I'm currently studying at **Epitech Digital School Paris**.
-- 📫 How to reach me: **adrien.leguen.p@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+## 🧑‍💻 À propos de moi
+- 🎓 Étudiant à **Epitech Paris** (promotion 2028).
+- 🖥️ Passionné par le développement web, les technologies innovantes, et l'entrepreneuriat.
+- 📈 Toujours curieux d'en apprendre plus sur la finance et le business.
+- 🌱 J'apprends actuellement **le développement web** et **la data analyse**.
+- 📅 J'ai **19 ans** et je travaille sur divers projets en parallèle de mes études.
+
+---
+
+## 📂 Mes projets
+Voici un aperçu de mes principaux projets :
+
+### **[Yowl](https://github.com/lgadrien/Yowl)**
+Créer un réseau social complet avec :
+- **Frontend** : React et Tailwind CSS.
+- **Backend** : Express.js et une base de données PHPMyAdmin.
+
+**Statut** : Fini ✅
+
+---
+
+### **[SneaKR](https://github.com/lgadrien/SneaKR)**
+Un site e-commerce de sneakers développé avec :
+- **Frontend** : React et Tailwind CSS.
+- **Backend** : Strapi.
+
+**Statut** : Fini ✅
+
+---
+
+### **[Portfolio](https://github.com/lgadrien/Portfolio)**
+Mon portfolio, un espace pour répertorier mes projets et partager mon parcours.
+
+**Technologies** : React, Tailwind CSS, JavaScript.  
+**Statut** : En cours 🚧
+
+---
+
+### **[Back2Fest](https://github.com/lgadrien/Back2Fest)**
+Un site vitrine pour un festival avec :
+- **Frontend** : React et Tailwind CSS.
+- **Backend** : API en Python et Express.js avec PHPMyAdmin.
+
+**Statut** : Fini ✅
+
+---
+
+## 🛠️ Technologies et outils
+Voici les outils et technologies que j'utilise au quotidien :
+
+### **Tout**
 <p align="left">
-  <a href="https://www.linkedin.com/in/adrien-le-guen-a544b62a9/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Adrien Le Guen LinkedIn" height="30" width="40" />
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop" width="40" height="40" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
-  </a>
-  <a href="https://postman.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://vuejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40" />
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a>
-</p>
+---
+
+## 📫 Me contacter
+Vous avez une question ou souhaitez collaborer ? N'hésitez pas à me contacter via :
+- 📧 Email : **[adrien.leguen.p@gmail.com](mailto:adrien.leguen.p@gmail.com)**
+- 🌐 LinkedIn : [Adrien Le Guen](https://www.linkedin.com/in/adrienleguen/)
+
+---
+
+## 📄 Mon CV
+Vous pouvez **[télécharger mon CV ici](https://github.com/lgadrien/Portfolio)** pour en savoir plus sur mon parcours.
+
+---
+
+© 2024 Adrien Le Guen. Tous droits réservés.
