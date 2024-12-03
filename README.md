@@ -1,118 +1,93 @@
-<h1 align="center">Hi 👋, I'm Adrien</h1>
-<h3 align="center">A passionate full-stack developer from France</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Adrien's Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+    }
+    .container {
+      max-width: 800px;
+      margin: 20px auto;
+    }
+    .hidden {
+      display: none;
+    }
+    .language-toggle {
+      margin-bottom: 20px;
+      text-align: center;
+    }
+    button {
+      background-color: #007BFF;
+      color: white;
+      border: none;
+      padding: 10px 15px;
+      cursor: pointer;
+      border-radius: 5px;
+      font-size: 14px;
+    }
+    button:hover {
+      background-color: #0056b3;
+    }
+    h1, h3 {
+      text-align: center;
+    }
+    .content {
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="language-toggle">
+      <button onclick="showContent('en')">English</button>
+      <button onclick="showContent('fr')">Français</button>
+    </div>
 
-<p align="center">
-  🌍 <a href="#english">English Version</a> | 🇫🇷 <a href="#french">Version Française</a>
-</p>
+    <!-- English Content -->
+    <div id="en" class="content">
+      <h1>Hi 👋, I'm Adrien</h1>
+      <h3>A passionate full-stack developer from France</h3>
+      <p>🌱 I’m currently learning <strong>React.js, Express</strong>.</p>
+      <p>👨‍💻 All of my projects are available on <a href="https://github.com/yourusername" target="_blank">GitHub</a>.</p>
+      <p>📚 I'm currently studying at <strong>Epitech Digital School Paris</strong>.</p>
+      <p>📫 How to reach me: <a href="mailto:adrien.leguen.p@gmail.com">adrien.leguen.p@gmail.com</a></p>
+      <h3>Connect with me:</h3>
+      <p>
+        <a href="https://www.linkedin.com/in/adrien-le-guen-a544b62a9/" target="_blank">LinkedIn</a>
+      </p>
+    </div>
 
----
+    <!-- French Content -->
+    <div id="fr" class="content hidden">
+      <h1>Salut 👋, je suis Adrien</h1>
+      <h3>Un développeur full-stack passionné de France</h3>
+      <p>🌱 J'apprends actuellement <strong>React.js, Express</strong>.</p>
+      <p>👨‍💻 Tous mes projets sont disponibles sur <a href="https://github.com/yourusername" target="_blank">GitHub</a>.</p>
+      <p>📚 J'étudie actuellement à <strong>Epitech Digital School Paris</strong>.</p>
+      <p>📫 Pour me contacter : <a href="mailto:adrien.leguen.p@gmail.com">adrien.leguen.p@gmail.com</a></p>
+      <h3>Me contacter :</h3>
+      <p>
+        <a href="https://www.linkedin.com/in/adrien-le-guen-a544b62a9/" target="_blank">LinkedIn</a>
+      </p>
+    </div>
+  </div>
 
-<h2 id="english">🌍 English Version</h2>
-
-- 🌱 I’m currently learning **React.js, Express**
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/yourusername).
-- 📚 I'm currently studying at **Epitech Digital School Paris**.
-- 📫 How to reach me: **adrien.leguen.p@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/adrien-le-guen-a544b62a9/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Adrien Le Guen LinkedIn" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
-  </a>
-  <a href="https://postman.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://vuejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40" />
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a>
-</p>
-
----
-
-<h2 id="french">🇫🇷 Version Française</h2>
-
-- 🌱 J'apprends actuellement **React.js, Express**
-- 👨‍💻 Tous mes projets sont disponibles sur [GitHub](https://github.com/yourusername).
-- 📚 J'étudie actuellement à **Epitech Digital School Paris**.
-- 📫 Pour me contacter : **adrien.leguen.p@gmail.com**
-
-<h3 align="left">Me contacter :</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/adrien-le-guen-a544b62a9/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Adrien Le Guen LinkedIn" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="left">Langages et Outils :</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
-  </a>
-  <a href="https://postman.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://vuejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40" />
-  </a>
-  <a href="https://www.photoshop.com/fr" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a>
-</p>
+  <script>
+    function showContent(language) {
+      const enContent = document.getElementById('en');
+      const frContent = document.getElementById('fr');
+      if (language === 'en') {
+        enContent.classList.remove('hidden');
+        frContent.classList.add('hidden');
+      } else if (language === 'fr') {
+        frContent.classList.remove('hidden');
+        enContent.classList.add('hidden');
+      }
+    }
+  </script>
+</body>
+</html>
