@@ -12,48 +12,9 @@
 
 ---
 
-## 📂 Mes projets
-Voici un aperçu de mes principaux projets :
-
-### **[Yowl](https://github.com/lgadrien/Yowl)**
-Créer un réseau social complet avec :
-- **Frontend** : React et Tailwind CSS.
-- **Backend** : Express.js et une base de données PHPMyAdmin.
-
-**Statut** : Fini ✅
-
----
-
-### **[SneaKR](https://github.com/lgadrien/SneaKR)**
-Un site e-commerce de sneakers développé avec :
-- **Frontend** : React et Tailwind CSS.
-- **Backend** : Strapi.
-
-**Statut** : Fini ✅
-
----
-
-### **[Portfolio](https://github.com/lgadrien/Portfolio)**
-Mon portfolio, un espace pour répertorier mes projets et partager mon parcours.
-
-**Technologies** : React, Tailwind CSS, JavaScript.  
-**Statut** : En cours 🚧
-
----
-
-### **[Back2Fest](https://github.com/lgadrien/Back2Fest)**
-Un site vitrine pour un festival avec :
-- **Frontend** : React et Tailwind CSS.
-- **Backend** : API en Python et Express.js avec PHPMyAdmin.
-
-**Statut** : Fini ✅
-
----
-
 ## 🛠️ Technologies et outils
 Voici les outils et technologies que j'utilise au quotidien :
 
-### **Tout**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
