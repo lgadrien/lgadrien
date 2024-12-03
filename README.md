@@ -44,5 +44,3 @@ Vous avez une question ou souhaitez collaborer ? N'hésitez pas à me contacter 
 Vous pouvez **[télécharger mon CV ici](https://github.com/lgadrien/Portfolio)** pour en savoir plus sur mon parcours.
 
 ---
-
-© 2024 Adrien Le Guen. Tous droits réservés.
