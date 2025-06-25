@@ -8,7 +8,7 @@
 - 🖥️ Passionné par le développement web, les technologies innovantes, et l'entrepreneuriat.
 - 📈 Toujours curieux d'en apprendre plus sur la finance et le business.
 - 🌱 J'apprends actuellement **le développement web** et **la data analyse**.
-- 📅 J'ai **19 ans** et je travaille sur divers projets en parallèle de mes études.
+- 📅 J'ai **20 ans** et je travaille sur divers projets en parallèle de mes études.
 
 ---
 
