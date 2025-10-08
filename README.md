@@ -1,47 +1,53 @@
-<h1 align="center">👋 Bonjour, je suis Adrien</h1>
-<h3 align="center">Développeur Full-Stack passionné par le code, la tech et l’entrepreneuriat</h3>
-
----
-
-## 🧑‍💻 À propos de moi
-
-- 🎓 Étudiant à **Epitech Paris** (promotion 2028)  
-- 🧠 Passionné par le **développement web**, la **data analyse** et les **technologies innovantes**  
-- 🚀 Intéressé par la **finance**, le **business** et la **création de projets**  
-- 💡 J’ai **20 ans** et je développe plusieurs projets en parallèle de mes études  
-
----
-
-## 🛠️ Technologies et outils
+<h1 align="center">👋 Bonjour, je suis Adrien Le Guen</h1>
+<h3 align="center">Développeur Full-Stack & Étudiant à Epitech Paris (Promo 2028)</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="40" />
+  <a href="mailto:adrien.leguen.p@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/adrienleguen/"><img src="https://img.shields.io/badge/LinkedIn-Adrien%20Le%20Guen-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://github.com/lgadrien/Portfolio"><img src="https://img.shields.io/badge/CV-Disponible-success?style=flat&logo=github" /></a>
+</p>
+
+---
+
+## 👨‍💻 À propos
+
+- 🎓 Étudiant à **Epitech Paris**, passionné par la **technologie**, le **code** et **l'entrepreneuriat**  
+- 💡 J’aime créer des projets concrets, apprendre vite et transformer les idées en produits  
+- 🌱 J’approfondis actuellement mes compétences en **développement web** et **analyse de données**  
+- 💼 Intéressé par : **startups**, **innovation**, **finance**, **blockchain**, et **scaling de produits tech**  
+- 🔭 Toujours en quête de **nouveaux défis**
+
+---
+
+## ⚙️ Stack & Outils
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,html,css,tailwind,python,mysql,mongodb,postgres,docker,postman,figma,git,github,vscode&perline=9" />
+</p>
+
+---
+
+## 📊 Statistiques GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lgadrien&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lgadrien&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgadrien&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 ---
 
 ## 📫 Me contacter
 
-- 📧 **[adrien.leguen.p@gmail.com](mailto:adrien.leguen.p@gmail.com)**  
-- 💼 **[LinkedIn – Adrien Le Guen](https://www.linkedin.com/in/adrienleguen/)**  
+<p align="center">
+  <a href="mailto:adrien.leguen.p@gmail.com"><img src="https://img.shields.io/badge/Email-adrien.leguen.p@gmail.com-red?logo=gmail&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/adrienleguen/"><img src="https://img.shields.io/badge/LinkedIn-Adrien%20Le%20Guen-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="https://github.com/lgadrien/Portfolio"><img src="https://img.shields.io/badge/Portfolio-GitHub-black?logo=github&style=for-the-badge" /></a>
+</p>
 
 ---
 
-## 📄 Mon CV
-
-➡️ **[Télécharger mon CV ici](https://github.com/lgadrien/Portfolio)** pour en savoir plus sur mon parcours et mes projets.
-
----
-
-<h4 align="center">✨ Toujours curieux, toujours en apprentissage ✨</h4>
+<h3 align="center">✨ “Code, Learn, Build, Repeat.” ✨</h3>
