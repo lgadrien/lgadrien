@@ -21,7 +21,7 @@ Développeur full-stack et data analyst passionné, je transforme les données e
 - � Étudiant à **Epitech Paris** (Promo 2028).
 - � Tech de prédilection : **React**, **Node.js**, **Python**, **Data Analysis**.
 - 🚀 J'aime bâtir des solutions performantes et scalables.
-- 🌐 Découvrez mes projets sur mon **[Portfolio](https://portfolio-adrienlg.vercel.app/)**.
+- 🌐 Découvrez mes projets sur mon **[Portfolio](https://adrienleguen.vercel.app/)**.
 
 ---
 
