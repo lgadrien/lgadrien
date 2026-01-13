@@ -2,14 +2,14 @@
 <h3 align="center">Développeur Full-Stack & Data Analyst</h3>
 
 <p align="center">
-  <a href="https://portfolio-adrienlg.vercel.app/">
+  <a href="https://adrienleguen.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visiter%20mon%20site-success?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
 <p align="center">
   <a href="mailto:adrien.leguen.p@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/adrienleguen/"><img src="https://img.shields.io/badge/LinkedIn-Adrien%20Le%20Guen-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/adrien-le-guen/"><img src="https://img.shields.io/badge/LinkedIn-Adrien%20Le%20Guen-blue?style=flat&logo=linkedin" /></a>
 </p>
 
 ---
@@ -37,6 +37,6 @@ Développeur full-stack et data analyst passionné, je transforme les données e
 
 <p align="center">
   <a href="mailto:adrien.leguen.p@gmail.com"><img src="https://img.shields.io/badge/Email-adrien.leguen.p@gmail.com-red?logo=gmail&style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/adrienleguen/"><img src="https://img.shields.io/badge/LinkedIn-Adrien%20Le%20Guen-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="https://portfolio-adrienlg.vercel.app/"><img src="https://img.shields.io/badge/Web-Mon_Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/adrien-le-guen/"><img src="https://img.shields.io/badge/LinkedIn-Adrien%20Le%20Guen-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="https://adrienleguen.vercel.app/"><img src="https://img.shields.io/badge/Web-Mon_Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge" /></a>
 </p>
